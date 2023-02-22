@@ -32,7 +32,7 @@ interface IPairFactory {
         uint256[] initialNFTIDs;
         uint256 initialTokenBalance;
     }
-    // test token rewards
+    // test token reward
 
     function createPairERC20(CreateERC20PairParams calldata params)
         external
