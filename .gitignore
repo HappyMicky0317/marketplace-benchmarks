@@ -1,0 +1,7 @@
+/cache
+/node_modules
+/out
+
+.DS_Store
+results/results.tex
+results/results-direct.tex
